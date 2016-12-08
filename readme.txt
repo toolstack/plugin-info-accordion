@@ -2,7 +2,7 @@
 Contributors: GregRoss
 Tags:  plugin, info, data, utility, developer, meta, tool
 Requires at least: 3.4
-Tested up to: 4.6.1
+Tested up to: 4.7
 Author URI: http://toolstack.com
 Plugin URI: http://toolstack.com/plugin-info-accordion
 Stable tag: 1.0
