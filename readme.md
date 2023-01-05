@@ -1,16 +1,16 @@
-=== Plugin Info Accordion ===
-Contributors: GregRoss
-Tags:  plugin, info, data, utility, developer, meta, tool
-Requires at least: 3.4
-Tested up to: 6.1.1
-Author URI: http://toolstack.com
-Plugin URI: http://toolstack.com/plugin-info-accordion
-Stable tag: 1.0
-License: GPLv2
+# Plugin Info Accordion #
+**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)  
+**Tags:**  plugin, info, data, utility, developer, meta, tool  
+**Requires at least:** 3.4  
+**Tested up to:** 6.1.1  
+**Author URI:** http://toolstack.com  
+**Plugin URI:** http://toolstack.com/plugin-info-accordion  
+**Stable tag:** 1.0  
+**License:** GPLv2  
 
 Adds an accordion to the FAQ and change log info from the Plugin Info plugin.
 
-== Description ==
+## Description ##
 
 This plugin is an extension to [Plugin Info](https://wordpress.org/plugins/plugin-info/), you must have Plugin Information installed to use it!
 
@@ -18,29 +18,34 @@ Once installed an activated, the "[plugin faq]" and "[plugin changelog]" shortco
 
 There are no options for this plugin, hence no settings page.
 
-== Installation ==
+## Installation ##
 
 1. Extract the archive file into your plugins directory in the plugin-info-accordion folder.
 2. Activate the plugin in the Plugin options.
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions ##
 
-= None at this time =
+### None at this time ###
 
 This is where the FAQ will go.
 
-== Screenshots ==
+## Screenshots ##
 
-1. FAQ accordion.
-2. Change log accordion.
+### 1. FAQ accordion. ###
+![FAQ accordion.](assets/screenshot-1.png)
 
-== Changelog ==
-= 1.0 =
+### 2. Change log accordion. ###
+![Change log accordion.](assets/screenshot-2.png)
+
+
+## Changelog ##
+### 1.0 ###
 * Release date: May 15, 2015
 * Initial release.
 
-== Upgrade Notice ==
+## Upgrade Notice ##
 
-= 1.0 =
+### 1.0 ###
 None.
+
 
